@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Editor / IDE
+*.swa
+*.swp
+*.swn
+.vscode/
+.idea/
+
+# Virtual environments
+.venv/
+venv/

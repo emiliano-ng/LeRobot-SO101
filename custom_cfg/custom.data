@@ -1,0 +1,7 @@
+classes= 3
+train = ./dataset/train.txt
+valid = ./dataset/valid.txt
+test = ./dataset/test.txt
+names =./custom_cfg/custom.names
+backup = ./backup
+eval=coco
